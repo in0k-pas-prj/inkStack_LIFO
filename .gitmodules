@@ -1,0 +1,18 @@
+[submodule "src"]
+	path = src
+	url = https://github.com/in0k-pas-src/inkStack_LIFO_src.git
+[submodule "tst"]
+	path = tst
+	url = https://github.com/in0k-pas-src/inkStack_LIFO_tst.git
+[submodule "srcExt/inkLL_simple"]
+	path = srcExt/inkLL_simple
+	url = https://github.com/in0k-pas-src/inkLL_simple_src.git
+[submodule "srcExt/inkStack_CORE"]
+	path = srcExt/inkStack_CORE
+	url = https://github.com/in0k-pas-src/inkStack_CORE_src.git
+[submodule "tstExt/inkStack_CORE"]
+	path = tstExt/inkStack_CORE
+	url = https://github.com/in0k-pas-src/inkStack_CORE_tst.git
+[submodule "tstExt/inkLL_simple"]
+	path = tstExt/inkLL_simple
+	url = https://github.com/in0k-pas-src/inkLL_simple_tst.git
