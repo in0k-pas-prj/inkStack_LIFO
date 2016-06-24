@@ -1,0 +1,7 @@
+*.res
+*.lps
+*.exe
+*.fpcunit.ini
+[Bb]ackup/
+[Ll]ib/
+
